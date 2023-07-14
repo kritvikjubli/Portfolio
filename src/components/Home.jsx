@@ -11,9 +11,9 @@ const Home = () => {
                     I'm a Engineering Student
                 </h2>
                 <p className='text-slate-200 py-4 max-w-md '>
-                   Currently, I am a persuing my Bachelor's in Computer Science from Graphic Era Hill University.
+                   Currently, I am a pursuing my Bachelor's in Computer Science from Graphic Era Hill University.
                    i love to work on web development  using technologies like 
-                   Tailwing and React.
+                   Tailwind and React.
                 </p>
                 <div>
                     <button className='flex text-slate-200 w-fit px-6 py-3 my-5 items-center rounded-xl bg-gradient-to-r from-cyan-500 via-blue-600 to-blue-500 group'>
