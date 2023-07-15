@@ -27,8 +27,8 @@ Throughout my professional journey, I have demonstrated strong leadership and co
               </p> 
              <br />
             <p className='text-xl'>
-            Creativity and innovation are at the core of my approach. I am passionate about creative pursuits such as <b> writing, design, photography, etc.</b>
  <span className='hidden md:-block'>
+            Creativity and innovation are at the core of my approach. I am passionate about creative pursuits such as <b> writing, design, photography, etc.</b>
 In this portfolio, you will find a collection of my best work, showcasing my skills, accomplishments,
  and growth over time. Each project represents a unique challenge I have taken on, demonstrating my ability to adapt, learn, and excel in various settings.
               </span>
