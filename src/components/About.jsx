@@ -10,9 +10,11 @@ const About = () => {
             <p className='text-xl mt-20'>
               
             Welcome to my portfolio! I am a highly motivated and versatile individual with a passion for personal and professional growth. 
+            <span className='hidden md:-block'>
             Throughout my journey, I have acquired a diverse skill set and developed a strong foundation in various fields.
 
-Education has played a pivotal role in shaping my knowledge and expertise. I am pursuing degree in<b> BTech in Computer Science </b> from <b>Graphic Era Hill University</b>. 
+Education has played a pivotal role in shaping my knowledge and expertise.</span>
+ I am pursuing degree in<b> BTech in Computer Science </b> from <b>Graphic Era Hill University</b>. 
 My academic journey has equipped me with a solid understanding of <b>React , Tailwind , JS , HTML, CSS , C , C++ , JAVA </b>, enabling me to approach challenges.
 
 In addition to my academic achievements, I have actively pursued opportunities to expand my practical skills.
