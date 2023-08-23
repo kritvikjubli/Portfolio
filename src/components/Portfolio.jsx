@@ -8,20 +8,23 @@ const Portfolio = () => {
         const folio=[
             {
                 id:1,
-                src:pizza
+                src:pizza,
+                view:"https://github.com/kritvikjubli/Pizza_site_using_bootstrap-.git"
             },
             {
                 id:2,
                 src:facebook,
-                
+                view:"https://github.com/kritvikjubli/Facebook_clone_tailwind.git"
             },
             {
                 id:3,
-                src:microsoft
+                src:microsoft,
+                view:"https://github.com/kritvikjubli/Microsoft_clone.git"
             },
             {
                 id:4,
-                src:navbar
+                src:navbar,
+                view:"",
             },
         ]
     
@@ -35,13 +38,15 @@ const Portfolio = () => {
             </div>
 
             <div  className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0'>
-            {folio.map(({id,src})=>(
+            {folio.map(({id,src,view})=>(
 
               <div key={id} className='shadow-md shadow-gray-600 rounded-lg '>
                 <img src={src} alt="#"  className='w-fit  rounded-md  duration-200 hover:scale-110 ' />
                 <div className='flex items-center justify-center'>
-                    <button className='w-1/2 px-6 py-2 m-4 duration-200 hover:scale-110'>demo</button>
-                    <button className='w-1/2 px-6 py-2 m-4 duration-200 hover:scale-110'>code</button>
+                    <a href={view} target='_blank' rel="noreferrer">
+                    <button className='w-1/2 px-6 py-2 m-4 duration-200 hover:scale-110'>demo</button></a>
+                    <a href={view} target='_blank' rel="noreferrer">
+                    <button className='w-1/2 px-6 py-2 m-4 duration-200 hover:scale-110'>code</button></a>
                 </div>
               </div>
 
