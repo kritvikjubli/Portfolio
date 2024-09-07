@@ -10,6 +10,8 @@ import java from "../assets/Experience/java.png"
 import  leetcode  from "../assets/Experience/leetcode.png"
 import  gfg  from "../assets/Experience/gfg.jpeg"
 import git from "../assets/Experience/git.jpeg"
+import mongo from "../assets/Experience/mongo.png"
+import node from "../assets/Experience/node.png"
 
 const Experience = () => {
 
@@ -37,55 +39,69 @@ const Experience = () => {
         },
         {
             id:4,
+            src:mongo,
+            title:'MongoDb',
+            style:"shadow-green-600",
+            page:"https://www.mongodb.com/"
+        },
+        {
+            id:5,
+            src:node,
+            title:'Node.js',
+            style:"shadow-green-600",
+            page:"https://nodejs.org/en"
+        },
+        {
+            id:6,
             src:reactimg,
             title:'React',
             style:"shadow-blue-600",
             page:"https://react.dev/"
         },
         {
-            id:5,
+            id:7,
             src:tailwind,
             title:'Tailwind',
             style:"shadow-blue-500",
             page:"https://tailwindcss.com/"
         },
         {
-            id:6,
+            id:8,
             src:c,
             title:'C Language',
             style:"shadow-blue-500",
             page:"https://www.w3schools.com/c/c_intro.php"
         },
         {
-            id:7,
+            id:9,
             src:cpp,
             title:'C++ Language',
             style:"shadow-blue-500",
             page:"https://www.programiz.com/cpp-programming"
         },
         {
-            id:8,
+            id:1,
             src:java,
             title:'Java Language',
             style:"shadow-blue-500",
             page:"https://www.java.com/en/"
         },
         {
-            id:9,
+            id:11,
             src:leetcode,
             title:'Leetcode',
             style:"shadow-white",
             page:"https://leetcode.com/Kritvik07/"
         },
         {
-            id:10,
+            id:12,
             src:gfg,
             title:'GeeksForGeeks',
             style:"shadow-green-500",
             page:"https://auth.geeksforgeeks.org/user/kritvik_jubli/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"
         },
         {
-            id:11,
+            id:13,
             src:git,
             title:'GitHub',
             style:"shadow-black",
