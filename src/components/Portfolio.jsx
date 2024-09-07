@@ -3,28 +3,59 @@ import pizza from "../assets/Pizza.jpeg"
 import facebook from "../assets/facebook.png"
 import microsoft from "../assets/microsoft.jpeg"
 import navbar from "../assets/navbar.jpeg"
+import polio from "../assets/folio.png"
+import heart from "../assets/heart.png"
+import note from "../assets/note.png"
+import blog from "../assets/blog.png"
+import acc from "../assets/acc.png"
+
 const Portfolio = () => {
 
         const folio=[
             {
                 id:1,
+                src:blog,
+                view:"https://github.com/kritvikjubli/Blog-Website.git"
+            },
+            {
+                id:2,
+                src:acc,
+                view:"https://github.com/kritvikjubli/Pizza_site_using_bootstrap-.git"
+            },
+            {
+                id:4,
+                src:heart,
+                view:"https://github.com/kritvikjubli/Health_guard.git"
+            },
+            {
+                id:5,
+                src:note,
+                view:"https://github.com/kritvikjubli/Taking_Notes.git"
+            },
+            {
+                id:6,
+                src:polio,
+                view:"https://github.com/kritvikjubli/portfolio-bharat-intern.git"
+            },
+            {
+                id:7,
                 src:pizza,
                 view:"https://github.com/kritvikjubli/Pizza_site_using_bootstrap-.git"
             },
             {
-                id:2,
+                id:8,
+                src:pizza,
+                view:"https://github.com/kritvikjubli/Pizza_site_using_bootstrap-.git"
+            },
+            {
+                id:9,
                 src:facebook,
                 view:"https://github.com/kritvikjubli/Facebook_clone_tailwind.git"
             },
             {
-                id:3,
+                id:10,
                 src:microsoft,
                 view:"https://github.com/kritvikjubli/Microsoft_clone.git"
-            },
-            {
-                id:4,
-                src:navbar,
-                view:"",
             },
         ]
     
