@@ -15,7 +15,7 @@ const About = () => {
 
 Education has played a pivotal role in shaping my knowledge and expertise.</span>
  I am pursuing degree in<b> BTech in Computer Science </b> from <b>Graphic Era Hill University</b>. 
-My academic journey has equipped me with a solid understanding of <b>React , Tailwind , JS , HTML, CSS , C , C++ , JAVA </b>, enabling me to approach challenges.
+My academic journey has equipped me with a solid understanding of <b>React , MongoDb , Node.js , Tailwind , JS , HTML, CSS , C , C++ , JAVA </b>, enabling me to approach challenges.
 
 In addition to my academic achievements, I have actively pursued opportunities to expand my practical skills.
 These experiences have honed my abilities <b> Web developer, Testing, Coder.</b>

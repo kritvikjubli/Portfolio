@@ -12,7 +12,7 @@ const Home = () => {
                 </h2>
                 <p className='text-slate-200 py-4 max-w-md '>
                    Currently, I am a pursuing my Bachelor's in Computer Science from Graphic Era Hill University.
-                   i love to work on web development  using technologies like 
+                   i love to work on development  using technologies like 
                    Tailwind and React.
                 </p>
                 <div>
