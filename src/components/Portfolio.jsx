@@ -2,7 +2,6 @@ import React from 'react'
 import pizza from "../assets/Pizza.jpeg"
 import facebook from "../assets/facebook.png"
 import microsoft from "../assets/microsoft.jpeg"
-import navbar from "../assets/navbar.jpeg"
 import polio from "../assets/folio.png"
 import heart from "../assets/heart.png"
 import note from "../assets/note.png"
